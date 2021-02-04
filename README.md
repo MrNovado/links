@@ -5,3 +5,4 @@
 - JS Event Loop https://youtu.be/cCOL7MC4Pl0
 - Modelling with state machines in ReasonML https://dev.to/margaretkrutikova/modelling-domain-with-state-machines-in-reasonml-n29
 - Matt Pocock' Sextant [xState based] https://dev.to/mpocock1/test-driven-development-with-sextant-41g6
+- Vertical rythm https://zellwk.com/blog/responsive-vertical-rhythm/
