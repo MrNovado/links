@@ -6,3 +6,4 @@
 - Modelling with state machines in ReasonML https://dev.to/margaretkrutikova/modelling-domain-with-state-machines-in-reasonml-n29
 - Matt Pocock' Sextant [xState based] https://dev.to/mpocock1/test-driven-development-with-sextant-41g6
 - Vertical rythm https://zellwk.com/blog/responsive-vertical-rhythm/
+- You need a statecharts library https://dev.to/davidkpiano/you-don-t-need-a-library-for-state-machines-k7h
