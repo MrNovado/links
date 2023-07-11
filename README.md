@@ -9,3 +9,4 @@
 - You need a statecharts library https://dev.to/davidkpiano/you-don-t-need-a-library-for-state-machines-k7h
 - React - XState: Just use props https://dev.to/mpocock1/just-use-props-an-opinionated-guide-to-react-and-xstate-fc9
 - [OpenAI] github copilot service https://copilot.github.com/
+- Effect-ts https://effect.website/
