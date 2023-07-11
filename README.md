@@ -11,3 +11,4 @@
 - [OpenAI] github copilot service https://copilot.github.com/
 - Effect-ts https://effect.website/
 - `fp-ts` is merging into Effect-ts https://dev.to/effect-ts/a-bright-future-for-effect-455m
+- TS+ https://dev.to/effect-ts/the-case-for-ts-18b3
