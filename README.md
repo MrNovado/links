@@ -10,3 +10,4 @@
 - React - XState: Just use props https://dev.to/mpocock1/just-use-props-an-opinionated-guide-to-react-and-xstate-fc9
 - [OpenAI] github copilot service https://copilot.github.com/
 - Effect-ts https://effect.website/
+- `fp-ts` is merging into Effect-ts https://dev.to/effect-ts/a-bright-future-for-effect-455m
