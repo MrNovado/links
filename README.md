@@ -12,3 +12,5 @@
 - Effect-ts https://effect.website/
 - `fp-ts` is merging into Effect-ts https://dev.to/effect-ts/a-bright-future-for-effect-455m
 - TS+ https://dev.to/effect-ts/the-case-for-ts-18b3
+- Ryan Carniato [SolidJS] dev-io blog https://dev.to/ryansolid
+- David K. Piano [XState] dev-io blog https://dev.to/davidkpiano
