@@ -44,5 +44,5 @@
 - Virtualization & Containers
   - Compose on steroids https://testcontainers.com/
 - AI
-  - Clippies
+  - Chats
     - https://chat.deepseek.com/
