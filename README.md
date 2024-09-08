@@ -17,4 +17,4 @@
 
 # Training material
 
-- An open-source collage of algorithms exercises https://algomap.io/
+- An open-source collection of algorithms exercises https://algomap.io/
