@@ -34,6 +34,8 @@
     - https://www.youtube.com/watch?v=MFCn4ce5dVc
 - OpenAPI (schema generation for rest'ish APIs)
   - OpenAPI + Zod: Generate The Ultimate TypeScript API Clients Automatically https://youtu.be/QmW6_lLaxwU?si=3W2OSs38nyhdXxkD
+- Metaframeworks
+  - https://github.com/BuilderIO/mitosis
 - SSR / Hydration
   - In-before NextJS times https://github.com/prerender/prerender
   - Vinxi meta-router https://youtu.be/C54k7nP4OjI?si=uBuV925uQxC-3ROl
