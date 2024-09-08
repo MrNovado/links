@@ -14,3 +14,7 @@
 - TS+ https://dev.to/effect-ts/the-case-for-ts-18b3
 - Ryan Carniato [SolidJS] dev-io blog https://dev.to/ryansolid
 - David K. Piano [XState] dev-io blog https://dev.to/davidkpiano
+
+# Traning material
+
+- An open-source collage of algorithms exercises https://algomap.io/
