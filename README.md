@@ -15,6 +15,6 @@
 - Ryan Carniato [SolidJS] dev-io blog https://dev.to/ryansolid
 - David K. Piano [XState] dev-io blog https://dev.to/davidkpiano
 
-# Traning material
+# Training material
 
 - An open-source collage of algorithms exercises https://algomap.io/
