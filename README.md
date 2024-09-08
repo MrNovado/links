@@ -18,3 +18,29 @@
 # Training material
 
 - An open-source collection of algorithms exercises https://algomap.io/
+
+# Of interest
+
+- Signals in JS ecosystem
+  - OG proposal https://github.com/tc39/proposal-signals
+  - Signals for JavaScript Proposal - [Angular team] Alex Rickabuagh & Ben Lesh https://youtu.be/IWQMNG4y0Rc?si=0GKIJzEodW6hVGBx
+  - Are Signals Worth the Hype? by Atila Fassina https://youtu.be/N1Ho-4fhYxY?si=duGGJKW_f5zW_461
+  - Learn Why JavaScript Frameworks Love Signals By Implementing Them https://youtu.be/1TSLEzNzGQM?si=fN6vdP-D6ZZJOdl5
+- Web Assembly in the wild
+  - Docker-wasm/wasi support https://youtu.be/aZr9rP2-Ho4?si=InMZTZHlv1N_5NHu
+    - https://docs.docker.com/desktop/wasm/
+- NPM successors
+  - JSR https://jsr.io/
+    - https://www.youtube.com/watch?v=MFCn4ce5dVc
+- OpenAPI (schema generation for rest'ish APIs)
+  - OpenAPI + Zod: Generate The Ultimate TypeScript API Clients Automatically https://youtu.be/QmW6_lLaxwU?si=3W2OSs38nyhdXxkD
+- SSR / Hydration
+  - In-before NextJS times https://github.com/prerender/prerender
+  - Vinxi meta-router https://youtu.be/C54k7nP4OjI?si=uBuV925uQxC-3ROl
+- QoL tools
+  - New-age formatter https://biomejs.dev/
+- Virtualization & Containers
+  - Compose on steroids https://testcontainers.com/
+- AI
+  - Clippies
+    - https://chat.deepseek.com/
