@@ -46,3 +46,6 @@
 - AI
   - Chats
     - https://chat.deepseek.com/
+
+# Psychology
+- https://www.issendai.com/psychology/estrangement/missing-missing-reasons.html
