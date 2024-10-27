@@ -18,6 +18,8 @@
 # Training material
 
 - An open-source collection of algorithms exercises https://algomap.io/
+- https://roadmap.sh/
+- https://www.develop.games/
 
 # Of interest
 
